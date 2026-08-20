@@ -86,9 +86,9 @@ Ai-to-pptx是使用AI技术来自动生成PPTX，并且支持在线修改和导�
 # 🌟 Star History
 <a href="https://github.com/SmartSchoolAI/ai-to-pptx/stargazers" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SmartSchoolAI/ai-to-pptx&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SmartSchoolAI/ai-to-pptx&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SmartSchoolAI/ai-to-pptx&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=SmartSchoolAI/ai-to-pptx&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=SmartSchoolAI/ai-to-pptx&type=Date" />
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=SmartSchoolAI/ai-to-pptx&type=Date" />
   </picture>
 </a>
 
